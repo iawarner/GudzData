@@ -1,0 +1,10 @@
+Turlock, 68549
+Perris, 68386
+Manteca, 67096
+Milpitas, 66790
+Redondo Beach, 66748
+Camarillo, 65201
+Yuba City, 64925
+Rancho Cordova, 64776
+Palo Alto, 64403
+Yorba Linda, 64234

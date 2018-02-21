@@ -1,6 +1,33 @@
 2-18-2018
 
 Housing
+* Percentage of people who are moving every year compared with:
+	other college towns - UC's: 
+		Berkeley
+		Merced
+		Irvine 
+		Santa Barbara (Isla Vista) 
+	other college towns - CSU's: 
+		Chico
+		Cal Poly SLO 
+		Humboldt 
+		Long Beach 
+		Fresno 
+		Northridge
+		Stanislaus 
+		Bakersfield 
+	other cities of comparable size (+/- 5 CA cities when ranked by population using 2010 census):
+		Turlock
+		Perris
+		Manteca
+		Milpitas
+		Redondo Beach
+		Camarillo
+		Yuba City
+		Rancho Cordova
+		Palo Alto
+		Yorba Linda
+	other cities throughout CA - LA, SF, Sac  
 
 Cost of living
 
