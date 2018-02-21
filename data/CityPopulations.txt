@@ -1,3 +1,4 @@
+City, Population 
 Turlock, 68549
 Perris, 68386
 Manteca, 67096
